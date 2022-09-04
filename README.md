@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @rahuljacker27
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning ML
-- 💞️ I’m looking to collaborate on web and app development projects , as i am beginner i can be your intern .
+- 💞️ I’m looking to collaborate on web and app development projects .
 - 📫 How to reach me ....
 
 <!---
